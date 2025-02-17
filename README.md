@@ -1,11 +1,11 @@
-.Add Task
-.Edit Task
-.Mark Task as completed
-.Delete Task
+.Add Task </br>
+.Edit Task</br>
+.Mark Task as completed</br>
+.Delete Task</br>
 
-The Components are 
-Header,
-ToDoList
+The Components are </br>
+Header,</br>
+ToDoList</br>
 ToDoItem
 
 Header Contain a simple text called todo application which is imported in App.js
