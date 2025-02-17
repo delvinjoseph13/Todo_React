@@ -8,8 +8,8 @@ Header,</br>
 ToDoList</br>
 ToDoItem
 
-Header Contain a simple text called todo application which is imported in App.js
-ToDoList item contain all the ToDoItems and passing the values from the ToDoList to the ToDoItem using props
+Header Contain a simple text called todo application which is imported in App.js</br>
+ToDoList item contain all the ToDoItems and passing the values from the ToDoList to the ToDoItem using props</br>
 taking the value as props and displaying using map function moves to the next todo
 
 
